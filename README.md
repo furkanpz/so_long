@@ -10,9 +10,7 @@
   <img src="https://i.hizliresim.com/aaie2x7.png" />
 	<code>Resources</code>
 </div>
-<h3 align="center">
-	https://pixelfrog-assets.itch.io/tiny-swords
-</h3>
+
 <p align="center">
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/furkanpz/so_long?color=lightblue" />
 <img alt="Code language count" src="https://img.shields.io/github/languages/count/Cloneg7/furkanpz?color=yellow" />
