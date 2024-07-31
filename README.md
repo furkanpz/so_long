@@ -42,5 +42,5 @@ The function is written in C language and thus needs the **`gcc` compiler** and 
 #### 📋 Testing
 > _Simply run this command (add as an argument a map from maps):_
 ```shell
-make && ./so_long maps/map.ber 
+make && ./so_long maps/level1.ber 
 ```
