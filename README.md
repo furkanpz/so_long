@@ -36,7 +36,7 @@ The function is written in C language and thus needs the **`gcc` compiler** and 
 **1. To use the function in your code, simply include its header:**
 
 ```C
-#include "manadatory/so_long.h"
+#include "so_long.h"
 ```
 
 #### 📋 Testing
